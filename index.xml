@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shelby Bachman</title>
+    <link>https://shelbybachman.github.io/</link>
+    <description>Recent content on Shelby Bachman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Shelby Bachman</copyright><atom:link href="https://shelbybachman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://shelbybachman.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shelbybachman.github.io/about/</guid>
+      <description>Hi! I&amp;rsquo;m a PhD student at the University of Southern California, working under the supervision of Dr. Mara Mather in the Emotion &amp;amp; Cognition Lab. My research focuses on how brain regions involved in emotion change across the adult lifespan, and the consequences of these changes for cognition and physiology. I use behavioral, psychophysiological and neuroimaging methods in my research. You can find a list of my publications here.
+To contact me, reach out on twitter or at sbachman [at] usc [dot] edu.</description>
+    </item>
+    
+  </channel>
+</rss>
