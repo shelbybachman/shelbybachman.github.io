@@ -22,11 +22,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shelbybachman.github.io/portfolio/</guid>
-      <description>Coding projects in R   Word prediction app: As a final project for a data science capstone course, I built a Shiny app that can predict the next words in a sentence
-app github
-  Predictors of wine quality app: I built a Shiny app to explore and model predictors of vinho verde wine quality, for a course on Developing Data Products
-app github
-  Classification using accelerometer data: In a final project for a Practical Machine Learning Course, I used classification techniques to identify movement types based on accelerometer data</description>
+      <description>Coding projects in R   Word prediction app: As my capstone project for the Data Science Specialization on Coursera, I built a Shiny app that can predict the next words in a sentence, based on a series of inputted words.
+app / github
+  Predictors of wine quality app: I built a Shiny app to explore and model predictors of Portuguese wine quality, as part of Coursera&amp;rsquo;s Developing Data Products course.</description>
     </item>
     
   </channel>
