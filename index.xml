@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shelbybachman.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m a PhD candidate at the University of Southern California, working under the supervision of Dr. Mara Mather in the Emotion &amp;amp; Cognition Lab. My research focuses on how emotion, stress and physiological arousal affect what we remember and pay attention to, and how these processes change across the lifespan. I use behavioral, psychophysiological and neuroimaging methods in my research. You can find a list of my publications here.</description>
+      <description>Hi! I&amp;rsquo;m a Research Scientist at VivoSense, where I use data from wearable devices to develop digital measures that can be deployed in clinical trials. Prior to working at VivoSense, I completed my PhD in the Emotion &amp;amp; Cognition Lab at the University of Southern California, where I studied how stress and physiological arousal affect what we remember and pay attention to, and how these processes change across the lifespan. Prior to that, I studied neuroscience at Humboldt Universität zu Berlin and the University of Southern California.</description>
     </item>
     
     <item>
@@ -22,9 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shelbybachman.github.io/portfolio/</guid>
-      <description>Coding projects in R   Word prediction app: As my capstone project for the Data Science Specialization on Coursera, I built a Shiny app that can predict the next words in a sentence, based on a series of inputted words.
-app / github
-  Predictors of wine quality app: I built a Shiny app to explore and model predictors of Portuguese wine quality, as part of Coursera&amp;rsquo;s Developing Data Products course.</description>
+      <description>Academic projects Isometric handgrip exercise speeds working memory responses in younger and older adults.
+Decades of animal and pharmacological research have linked the brain&amp;rsquo;s noradrenergic system to working memory, but there has been relatively little non-pharmacological work in humans examining how isolated fluctuations in noradrenegic activity to working memory performance. We examined how performing isometric handgrip exercise, a manipulation known to influence noradrenergic activity, affected working memory performance. Our results indicated that performing handgrip decreased reaction times on a subsequent working memory task in both younger and older adults.</description>
     </item>
     
   </channel>
